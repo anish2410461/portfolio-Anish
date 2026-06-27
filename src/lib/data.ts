@@ -44,7 +44,7 @@ export const personalInfo = {
   college: "SSN College of Engineering",
   github: "https://github.com/anish2410461",
   linkedin: "https://www.linkedin.com/in/anish-m-b5385b386/",
-  resumeUrl: "/src/assets/images/Anish M -Resume.pdf",
+  resumeUrl: "/images/Anish M -Resume.pdf",
 };
 
 export const projects: Project[] = [
@@ -53,7 +53,7 @@ export const projects: Project[] = [
     title: "PromptPolish",
     tagline: "AI Prompt Optimization SaaS",
     description: "Transforms weak, ambiguous prompts into structured, high-quality AI instructions using reasoning-based optimization and clarity scoring.",
-    image: "/src/assets/images/promptpolish.png",
+    image: "/images/promptpolish.png",
     tech: ["React", "Next.js", "Tailwind CSS", "Anthropic API", "Vercel"],
     links: { github: "https://github.com/anish2410461", live: "https://prompt-polishfree-4mgj.vercel.app/" },
     featured: true
@@ -63,7 +63,7 @@ export const projects: Project[] = [
     title: "YouTube Clone",
     tagline: "Responsive Frontend Architecture",
     description: "Pixel-accurate YouTube interface clone with responsive grid layouts, API integration patterns, and modern CSS architecture principles.",
-    image: "/src/assets/images/ytclone.png",
+    image: "/images/ytclone.png",
     tech: ["HTML", "CSS", "JavaScript", "YouTube API"],
     links: { github: "https://github.com/anish2410461", live: "https://youtube-clone-ashen-two.vercel.app/" }
   },
@@ -90,7 +90,7 @@ export const projects: Project[] = [
     title: "SwiftCart",
     tagline: "Full-Stack E-Commerce Platform",
     description: "Full-stack e-commerce web application enabling users to browse products, manage shopping carts, and securely authenticate accounts. Built with a focus on responsive design, user experience, and scalable architecture.",
-    image: "/src/assets/images/swiftcart.png",
+    image: "/images/swiftcart.png",
     tech: ["React", "Vite", "Node.js", "Express", "MongoDB", "Vercel"],
     links: { github: "https://github.com/anish2410461", live: "https://swiftcard-frontend.vercel.app/login" }
   },
@@ -99,7 +99,7 @@ export const projects: Project[] = [
     title: "TaskZen",
     tagline: "AI-Powered Project Management Platform",
     description: "Full-stack project management platform with Kanban boards, team collaboration, role-based access control, real-time notifications, and AI-driven productivity insights for efficient workflow management.",
-    image: "/src/assets/images/taskzen.png",
+    image: "/images/taskzen.png",
     tech: ["React", "Node.js", "Express", "MongoDB", "JWT", "AI Integration", "Render"],
     links: { github: "https://github.com/anish2410461", live: "https://taskzen-frontend.onrender.com/" }
   }
@@ -152,7 +152,7 @@ export const certifications: Certification[] = [
     issuer: "Jyesta & E-Cell IIT Roorkee",
     year: "2026",
     description: "Completed a certified Full-Stack Web Development training program conducted by Jyesta Corporate Entity in collaboration with E-Cell IIT Roorkee. Acquired hands-on experience in front-end development, back-end programming, database integration, and full-stack application development through practical learning and project-based training.",
-    imageUrl: "/src/assets/images/jyesta_fullstack_certificate.png.png"
+    imageUrl: "/images/jyesta_fullstack_certificate.png"
   },
   {
     id: "c6",
@@ -160,7 +160,7 @@ export const certifications: Certification[] = [
     issuer: "GUVI & HCL Technologies",
     year: "2026",
     description: "Participated in GUVI and HCL's 3-day workshop on Generative AI Engineering, gaining practical knowledge of LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), vector databases, and AI application deployment. Explored industry-standard approaches for developing and deploying AI-powered solutions.",
-    imageUrl: "/src/assets/images/HCL GUVI Certification - z78Ul750112B3j3n5b (1).png"
+    imageUrl: "/images/HCL GUVI Certification - z78Ul750112B3j3n5b (1).png"
   },
   {
     id: "c8",
@@ -168,7 +168,7 @@ export const certifications: Certification[] = [
     issuer: "IBM SkillsBuild",
     year: "2026",
     description: "Completed IBM SkillsBuild's Data Analysis with Python course, gaining practical experience in data cleaning, analysis, visualization, and statistical interpretation using Python, Pandas, and NumPy. Developed skills to transform raw data into actionable insights through data-driven analysis.",
-    imageUrl: "/src/assets/images/IBM DA0101EN Certificate _ IBM SkillsBuild.pdf"
+    imageUrl: "/images/IBM DA0101EN Certificate _ IBM SkillsBuild.pdf"
   },
   {
     id: "c9",
@@ -176,7 +176,7 @@ export const certifications: Certification[] = [
     issuer: "Infosys Springboard",
     year: "2026",
     description: "Completed the Artificial Intelligence course from Infosys Springboard, gaining knowledge of AI fundamentals, machine learning concepts, NLP, computer vision, and the practical applications of intelligent systems in solving real-world problems.",
-    imageUrl: "/src/assets/images/Screenshot 2026-06-15 122046.png"
+    imageUrl: "/images/Screenshot 2026-06-15 122046.png"
   },
   {
     id: "c10",
@@ -184,7 +184,7 @@ export const certifications: Certification[] = [
     issuer: "JPMorgan Chase & Co. | Forage",
     year: "2026",
     description: "Completed the JPMorgan Chase & Co. Software Engineering Job Simulation on Forage, gaining hands-on experience in project setup, Kafka integration, H2 database management, REST API development, and backend application engineering through real-world software development tasks.",
-    imageUrl: "/src/assets/images/jb.png"
+    imageUrl: "/images/jb.png"
   },
   {
     id: "c11",
@@ -192,7 +192,7 @@ export const certifications: Certification[] = [
     issuer: "Infosys Springboard",
     year: "2026",
     description: "Completed the Prompt Engineering course from Infosys Springboard, gaining expertise in designing effective prompts, optimizing AI interactions, and leveraging Generative AI and Large Language Models (LLMs) for real-world applications.",
-    imageUrl: "/src/assets/images/prompt.png"
+    imageUrl: "/images/prompt.png"
   },
   {
     id: "c12",
@@ -200,7 +200,7 @@ export const certifications: Certification[] = [
     issuer: "Infosys Springboard",
     year: "2026",
     description: "Completed the Introduction to Data Science course from Infosys Springboard, gaining foundational knowledge in data analysis, visualization, statistics, machine learning concepts, and data-driven problem solving.",
-    imageUrl: "/src/assets/images/datascience.png"
+    imageUrl: "/images/datascience.png"
   },
   {
     id: "c13",
@@ -208,7 +208,7 @@ export const certifications: Certification[] = [
     issuer: "GUVI & HCL Technologies",
     year: "2025",
     description: "Participated in GUVI and HCL's webinar on '7 Steps to Launch Your Career in Data Science in 2026', gaining insights into data science career pathways, industry expectations, project building, portfolio development, and strategies for securing opportunities in the field.",
-    imageUrl: "/src/assets/images/hcldata.png"
+    imageUrl: "/images/hcldata.png"
   },
   {
     id: "c14",
@@ -216,7 +216,7 @@ export const certifications: Certification[] = [
     issuer: "HP LIFE | HP Foundation",
     year: "2025",
     description: "Completed HP LIFE's Introduction to Cybersecurity Awareness course, gaining knowledge of cybersecurity fundamentals, online threat identification, data protection, password security, phishing prevention, and safe digital practices.",
-    imageUrl: "/src/assets/images/cyber.png"
+    imageUrl: "/images/cyber.png"
   },
   {
     id: "c15",
@@ -224,7 +224,7 @@ export const certifications: Certification[] = [
     issuer: "GUVI & HCL Technologies",
     year: "2025",
     description: "Participated in GUVI and HCL's workshop on Build a Kanban App with Full Stack Development, gaining hands-on experience in developing a task and project management application using frontend, backend, database, and API integration concepts.",
-    imageUrl: "/src/assets/images/hclkanban.png"
+    imageUrl: "/images/hclkanban.png"
   },
   {
     id: "c16",
@@ -232,7 +232,7 @@ export const certifications: Certification[] = [
     issuer: "NPTEL Elite | IIIT Hyderabad",
     year: "2025",
     description: "Earned an Elite NPTEL Certification in Privacy and Security in Online Social Media, gaining knowledge of online privacy, cybersecurity threats, social network security, data protection, digital identity management, and ethical aspects of information security. Scored 65% over a 12-week course.",
-    imageUrl: "/src/assets/images/privacy and security.png"
+    imageUrl: "/images/privacy and security.png"
   },
   {
     id: "c17",
@@ -240,6 +240,6 @@ export const certifications: Certification[] = [
     issuer: "NPTEL Elite | IIIT Delhi",
     year: "2026",
     description: "Earned an Elite NPTEL Certification in Affective Computing, gaining knowledge of emotion recognition, sentiment analysis, human-computer interaction, machine learning, and the development of AI systems capable of understanding and responding to human emotions. Scored 70% over a 12-week course.",
-    imageUrl: "/src/assets/images/affective.png"
+    imageUrl: "/images/affective.png"
   }
 ];
