@@ -82,7 +82,7 @@ export const Hero = () => {
              {/* Portrait Image */}
              <div className="relative w-full h-full rounded-3xl overflow-hidden border border-border-default/50 shadow-2xl bg-bg-elevated">
                <img
-                 src="/src/assets/images/anish.png"
+                 src="/images/anish.png"
                  alt="Anish M"
                  className="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105"
                />
